@@ -14,3 +14,15 @@ Wickham, H., 2017: Advanced R, CRC.</br>
 
 Bryan, Jennifer and Hester, Tim (2024): Happy Git and GitHub for the useR.</br>
 [https://happygitwithr.com/](https://happygitwithr.com/)
+
+## R Markdown Cheatsheet:
+
+[https://raw.githubusercontent.com/rstudio/cheatsheets/main/rmarkdown-2.0.pdf](https://raw.githubusercontent.com/rstudio/cheatsheets/main/rmarkdown-2.0.pdf)
+
+## Shiny:
+[https://shiny.posit.co/r/getstarted/shiny-basics/lesson1/](https://shiny.posit.co/r/getstarted/shiny-basics/lesson1/)
+
+## mlr3:
+
+Bischl, Bernd,  Raphael Sonabend, Lars Kotthoff, Michel Lang (Eds), 2024: Applied Machine Learning Using mlr3 in R, CRC.
+[https://mlr3book.mlr-org.com/](https://mlr3book.mlr-org.com/)
