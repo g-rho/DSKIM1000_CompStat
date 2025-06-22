@@ -26,3 +26,7 @@ Bryan, Jennifer and Hester, Tim (2024): Happy Git and GitHub for the useR.</br>
 
 Bischl, Bernd,  Raphael Sonabend, Lars Kotthoff, Michel Lang (Eds), 2024: Applied Machine Learning Using mlr3 in R, CRC.
 [https://mlr3book.mlr-org.com/](https://mlr3book.mlr-org.com/)
+
+## Hyperparameter optimization:
+Bischl, Bernd et al. (2023): Hyperparameter optimization: Foundations, algorithms, best practices, and open challenges. 
+[https://doi.org/10.1002/widm.1484](https://doi.org/10.1002/widm.1484)
