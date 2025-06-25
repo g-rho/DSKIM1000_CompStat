@@ -30,3 +30,6 @@ Bischl, Bernd,  Raphael Sonabend, Lars Kotthoff, Michel Lang (Eds), 2024: Applie
 ## Hyperparameter optimization:
 Bischl, Bernd et al. (2023): Hyperparameter optimization: Foundations, algorithms, best practices, and open challenges. 
 [https://doi.org/10.1002/widm.1484](https://doi.org/10.1002/widm.1484)
+
+## XAI:
+Bücker, M., Szepannek, G., Gosiewska, A., & Biecek, P. (2021). Transparency, auditability, and explainability of machine learning models in credit scoring. Journal of the Operational Research Society, 73(1), 70–90. [https://doi.org/10.1080/01605682.2021.1922098](https://doi.org/10.1080/01605682.2021.1922098)
